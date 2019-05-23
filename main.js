@@ -5,7 +5,7 @@
     function closeNav() {
       document.getElementById("myNav").style.width = "0%";
     }
-    var slideIndex = 1;
+  var slideIndex = 1;
 showSlides(slideIndex);
 
 // Next/previous controls
