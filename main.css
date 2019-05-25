@@ -58,7 +58,7 @@ body{
   .header{
     max-width: 100%;
    height:40vh;
-    background-image:linear-gradient(rgba(0,0,0,.4), rgba(0,0,0,.7)) ,url(./Images/amsterdam-ship-bay-harbor-68135.jpeg);
+    background-image:linear-gradient(rgba(0,0,0,.4), rgba(0,0,0,.4)) ,url(./Images/amsterdam-ship-bay-harbor-68135.jpeg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
